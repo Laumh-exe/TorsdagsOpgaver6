@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e6c041d-90ac-486e-84f3-27967f0fc867" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Task4/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Task4/ShapeBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Task4/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TorsdagsOpgaver6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/MethodTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/FindFemFejl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/ShapeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4/Square.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NNwvJMQYOVrmqwCWCWlcU9LRTJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Task4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FindFemFejl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.FindFemFejl" />
+      <module name="TorsdagsOpgaver6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTest.getArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TorsdagsOpgaver6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task4" />
+      <option name="MAIN_CLASS_NAME" value="Task4.CircleTest" />
+      <option name="METHOD_NAME" value="getArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTest.getArea2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TorsdagsOpgaver6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task4" />
+      <option name="MAIN_CLASS_NAME" value="Task4.CircleTest" />
+      <option name="METHOD_NAME" value="getArea2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeBuilderTest.getTotalAreaPositiveSq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TorsdagsOpgaver6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task4" />
+      <option name="MAIN_CLASS_NAME" value="Task4.ShapeBuilderTest" />
+      <option name="METHOD_NAME" value="getTotalAreaPositiveSq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShapeBuilderTest.getTotalAreaPositiveSq" />
+        <item itemvalue="JUnit.CircleTest.getArea2" />
+        <item itemvalue="JUnit.CircleTest.getArea" />
+        <item itemvalue="Application.FindFemFejl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e6c041d-90ac-486e-84f3-27967f0fc867" name="Changes" comment="" />
+      <created>1679518078949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679518078949</updated>
+      <workItem from="1679518080098" duration="3462000" />
+      <workItem from="1679566407605" duration="12292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task1/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task2/FindFemFejl.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
